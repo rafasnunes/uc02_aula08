@@ -1,2 +1,1 @@
-        # ax[0].set_xticks([])
-        # ax[0].set_yticks([])
+import matplotlib.pyplot as plt
